@@ -15,3 +15,16 @@
 - **Python 3.7+**
 - **psycopg2**: Para conectar e interagir com o banco de dados PostgreSQL.
 - **schedule**: Para agendar verificações periódicas do status do banco.
+
+
+📈 Logs e Monitoramento
+Os logs das execuções são exibidos no console e podem ser redirecionados para arquivos ou sistemas de monitoramento conforme a necessidade.
+
+🌐 Demo Online
+Você pode conferir o projeto funcionando no Glitch clicando no botão abaixo:
+[![Check it on Glitch](https://img.shields.io/badge/Glitch-Open_Project-blueviolet?style=for-the-badge)](https://glitch.com/edit/#!/ohanasafeguarddbstatus)
+📧 Contato
+Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
+
+Email: tuitr.negocios@gmail.com
+GitHub: Tuizim
