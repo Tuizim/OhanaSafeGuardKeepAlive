@@ -23,6 +23,7 @@ Os logs das execuções são exibidos no console e podem ser redirecionados para
 🌐 Demo Online
 Você pode conferir o projeto funcionando no Glitch clicando no botão abaixo:
 [![Check it on Glitch](https://img.shields.io/badge/Glitch-Open_Project-blueviolet?style=for-the-badge)](https://glitch.com/edit/#!/ohanasafeguarddbstatus)
+
 📧 Contato
 Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
