@@ -28,5 +28,5 @@ Você pode conferir o projeto funcionando no Glitch clicando no botão abaixo:
 📧 Contato
 Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
-Email: tuitr.negocios@gmail.com
+- [![Email](https://img.shields.io/badge/arturtrombim.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturtrombim.dev@gmail.com)
 GitHub: Tuizim
